@@ -3,4 +3,3 @@
 
 To create your very own QA Chat App, clone this repo and follow step-by-step guide at [my blog](https://moh1tt.vercel.app/blog/STA5635)
 
-<img alt='app' src='https://github.com/moh1tt/langchain-qa-sta5635/blob/master/sta-flow.png?raw=true'>
